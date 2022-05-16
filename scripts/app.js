@@ -1,4 +1,4 @@
-var bitcoins = 0
+var bitcoins = 12345678909876543212345678909876543212345678909
 var bitcoinRate = 0
 
 // Every item in the game
